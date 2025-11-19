@@ -74,34 +74,57 @@ Implication:
 Brands should invest in visually rich, short-form campaigns across Instagram and Snapchat while incorporating interactive elements to boost active engagement.
 
 7. Consumer Behavior Insights
+   
 Price comparison without review checks suggests an audience that values cost savings over quality verification—could be susceptible to impulse buying if offered deals.
+
 Neutral stance on influencers means influencer campaigns should be more authentic and value-driven rather than purely promotional.
+
 Medium ad influence indicates that ads work but must be highly relevant to move consumers from awareness to purchase.
+
 Low trust in social media underlines the need for credibility—verified reviews, customer testimonials, and transparency can help.
+
 Implication:
+
 Ad campaigns should be paired with trust-building content, such as unfiltered customer stories, third-party certifications, and social proof.
 Overall Strategic Takeaways
+
 1.Audience is young, balanced by gender, and mid-spending.
+
 2.Fashion and beauty drive purchase habits—seasonal trends and influencer tie-ins will resonate.
+
 3.Instagram and Snapchat are the key battlegrounds for brand awareness.
+
 4.Trust is the weak link—authenticity, reviews, and relatable content can strengthen conversion rates.
+
 5.Deals and pricing transparency can capture price-conscious shoppers quickly.
+
 4. Visualization & Clarity
 
 
 5. Conclusion & Usefulness
+   
 Conclusion
+
 The survey reveals a young, gender-balanced, and mid-spending consumer base with strong preferences for fashion and beauty products purchased mainly via Flipkart and Amazon. Social media, especially Instagram and Snapchat, plays a major role in shaping awareness, though trust levels in these platforms are low. Price sensitivity is evident, with many respondents comparing costs more than quality reviews, indicating a potential for deal-driven conversions. Influencers have a moderate impact, meaning campaigns need to be more authentic and value-focused rather than purely promotional.
 Usefulness
 For Marketers:
+
 Enables precise audience targeting with visual-rich campaigns on Instagram/Snapchat, focusing on mid-tier pricing (₹500–₹2000) and seasonal trends.
+
 For E-commerce Platforms:
+
 Highlights the importance of competitive pricing, bundle offers, and reliable payment options to convert the tech-savvy 24-year-old group.
+
 For Brands:
+
 Shows a need to build trust through verified reviews, transparent product information, and relatable customer stories.
+
 For Influencer Strategies:
+
 Suggests collaboration with micro-influencers or niche content creators who can offer authentic endorsements that align with consumer values.
+
 For Product Development:
+
 Indicates that investing in fashion, beauty, and affordable electronics will align with the core purchase interests of this audience.
 
 
